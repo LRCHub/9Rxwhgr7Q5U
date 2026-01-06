@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Rusty Knife",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-01-06T08:03:48.463520Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rusty Knife Defloration",
+      "artist": "Kraanium",
+      "has_synced": false,
+      "path": "select/01_Rusty_Knife_Defloration_Kraanium.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rusty Knife (feat. Tiji Jojo, T-Pablow, KEIJU & IO)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/02_Rusty_Knife_(feat._Tiji_Jojo,_T-Pablow,_KEIJU_&_IO)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rusty Knife",
+      "artist": "Lincoln Durham",
+      "has_synced": true,
+      "path": "select/03_Rusty_Knife_Lincoln_Durham.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rusty Knife (feat. Tiji Jojo, T-Pablow, KEIJU & IO)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/04_Rusty_Knife_(feat._Tiji_Jojo,_T-Pablow,_KEIJU_&_IO)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rusty Knife",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/05_Rusty_Knife_BAD_HOP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rusty Knife",
+      "artist": "BAD HOP, Tiji Jojo, T-Pablow, KEIJU, IO",
+      "has_synced": false,
+      "path": "select/pl_01_Rusty_Knife_BAD_HOP,_Tiji_Jojo,_T-Pablow,_KEIJU,_IO.txt"
+    }
+  ]
+}
